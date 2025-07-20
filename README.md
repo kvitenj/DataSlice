@@ -2,9 +2,7 @@
 
 A credit card-sized computer for wireless and wired communication debugging
 
-<img src="images/concept_front.png" alt="concept_front" height="200"/>
-<img src="images/concept_side.png" alt="concept_side" height="200"/>
-<img src="images/concept_back.png" alt="concept_back" height="200"/>
+<img src="images/concept_front.png" alt="concept_front" height="200"/><img src="images/concept_side.png" alt="concept_side" height="200"/><img src="images/concept_back.png" alt="concept_back" height="200"/>
 
 ---
 
